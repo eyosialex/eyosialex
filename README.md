@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Eyosiyas Alemayehu
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Mobile+App+%26+AI%2FML+Developer;3rd+Year+Software+Engineering+%40+AASTU;Flutter+%7C+Python+%7C+Machine+Learning;Building+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Mobile+App+and+AI%2FML+Developer;3rd+Year+Software+Engineering+%40+AASTU;Flutter+%7C+Python+%7C+Machine+Learning;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=eyosialex&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
@@ -14,10 +14,9 @@
 
 ```python
 class Eyosiyas:
-    name        = "Eyosiyas Alemayehu"
     role        = "Mobile App Developer & AI/ML Developer"
     education   = "3rd Year Software Engineering @ AASTU"
-    location    = "Addis Ababa, Ethiopia 🇪🇹"
+    location    = "Addis Ababa, Ethiopia"
     focus       = ["Machine Learning", "Computer Vision", "RAG Systems", "Geospatial AI"]
     currently   = ["GeoValidate System", "SmartMap", "Face Verification", "Linked Farm", "Talent Detector"]
     experience  = "1 year Flutter Mobile App Development"
