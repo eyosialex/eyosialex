@@ -16,7 +16,7 @@
 class Eyosiyas:
     def __init__(self):
         self.role        = "Mobile App Developer & AI/ML Developer"
-        self.education   = "3rd Year Software Engineering @ AASTU"
+        self.education   = "4th Year Software Engineering @ AASTU"
         self.location    = "Addis Ababa, Ethiopia"
         self.focus       = ["Machine Learning", "Computer Vision", "RAG Systems", "Geospatial AI"]
         self.currently   = ["GeoValidate System", "SmartMap", "Face Verification", "Linked Farm", "Talent Detector"]
