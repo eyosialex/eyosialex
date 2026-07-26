@@ -50,10 +50,10 @@ class Eyosiyas:
 
 | Project | Description | Tech | Repo |
 |---------|-------------|------|------|
-| 🗺️ **GeoValidate System** | Geospatial data validation using PostGIS & AI | Python · FastAPI · PostgreSQL · PostGIS | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/eyosialex) |
-| 🧠 **SmartMap** | Intelligent mapping with RAG & AI integration | React · Express · AI · RAG | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/eyosialex) |
-| 🌾 **Linked Farm** | Agricultural platform connecting farmers | Flutter · Node.js · MongoDB | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/eyosialex) |
-| 👁️ **Face Verification** | Real-time face recognition system | Python · OpenCV · Deep Learning | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/eyosialex) |
+| 🗺️ **GeoValidate System** | Geospatial data validation using PostGIS & AI | Python · PostgreSQL · PostGIS | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/AfriGebeta/GeoValidate) |
+| 🧠 **SmartMap** | Intelligent mapping with RAG & AI integration | React · Express · AI · RAG | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/anon381/Smart_map) |
+| 🌾 **Linked Farm** | Agricultural platform connecting farmers | Flutter · Node.js · MongoDB | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/eyosialex/linked_farm) |
+| 👁️ **Face Verification** | Real-time face recognition system | Python · OpenCV · Deep Learning | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Dagim-Tadesse/face-auth-system) |
 | 🎯 **Talent Detector** | AI-powered talent detection system | Python · ML · Computer Vision | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/eyosialex) |
 
 ---
