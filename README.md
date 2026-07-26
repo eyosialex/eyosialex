@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hi, I'm Eyosiyas Alemayehu
+# 👋 Hi, I'm Eyosiyas Alemayehu
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Developer;Software+Engineering+Student+%40+AASTU;Building+Intelligent+Systems;Computer+Vision+%7C+NLP+%7C+RAG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Mobile+App+%26+AI%2FML+Developer;3rd+Year+Software+Engineering+%40+AASTU;Flutter+%7C+Python+%7C+Machine+Learning;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=eyosialex&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
@@ -14,13 +14,14 @@
 
 ```python
 class Eyosiyas:
-    name       = "Eyosiyas Alemayehu"
-    role       = "Mobile APPlication Developer AI & ML Developer"
-    education  = "4th Year Software Engineering @ AASTU"
-    location   = "Addis Ababa, Ethiopia 🇪🇹"
-    focus      = ["Machine Learning", "Computer Vision", "RAG Systems", "Geospatial AI"]
-    currently  = ["GeoValidate System", "SmartMap", "Face Verification", "Linked Farm","Talent Detector"]
-    looking_for = "MObile Application and AI/ML Internship Opportunities"
+    name        = "Eyosiyas Alemayehu"
+    role        = "Mobile App Developer & AI/ML Developer"
+    education   = "3rd Year Software Engineering @ AASTU"
+    location    = "Addis Ababa, Ethiopia 🇪🇹"
+    focus       = ["Machine Learning", "Computer Vision", "RAG Systems", "Geospatial AI"]
+    currently   = ["GeoValidate System", "SmartMap", "Face Verification", "Linked Farm", "Talent Detector"]
+    experience  = "1 year Flutter Mobile App Development"
+    looking_for = "Mobile Application and AI/ML Internship Opportunities"
 ```
 
 ---
@@ -49,10 +50,11 @@ class Eyosiyas:
 
 | Project | Description | Tech | Repo |
 |---------|-------------|------|------|
-| 🗺️ **GeoValidate** | Geospatial data validation using PostGIS & AI | Python · FastAPI · PostgreSQL · PostGIS | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/eyosialex) |
+| 🗺️ **GeoValidate System** | Geospatial data validation using PostGIS & AI | Python · FastAPI · PostgreSQL · PostGIS | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/eyosialex) |
 | 🧠 **SmartMap** | Intelligent mapping with RAG & AI integration | React · Express · AI · RAG | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/eyosialex) |
 | 🌾 **Linked Farm** | Agricultural platform connecting farmers | Flutter · Node.js · MongoDB | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/eyosialex) |
 | 👁️ **Face Verification** | Real-time face recognition system | Python · OpenCV · Deep Learning | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/eyosialex) |
+| 🎯 **Talent Detector** | AI-powered talent detection system | Python · ML · Computer Vision | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/eyosialex) |
 
 ---
 
@@ -85,7 +87,7 @@ class Eyosiyas:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eyosialex27@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyosialex27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eyosiyas-alemayehu-0476583ab)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EyosiWW)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eyosialex)
