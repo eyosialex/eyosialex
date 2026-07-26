@@ -22,6 +22,8 @@ class Eyosiyas:
         self.currently   = ["GeoValidate System", "SmartMap", "Face Verification", "Linked Farm", "Talent Detector"]
         self.experience  = "1 year Flutter Mobile App Development"
         self.looking_for = "Mobile Application and AI/ML Internship Opportunities"
+```
+
 ---
 
 ## 🛠️ Tech Stack
