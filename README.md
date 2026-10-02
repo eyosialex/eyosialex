@@ -21,7 +21,7 @@
 ### AI / ML
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark)](https://skillicons.dev)
 
-### Databases & Tools
+### Databases and Tools
 [![My Skills](https://skillicons.dev/icons?i=postgresql,docker,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
